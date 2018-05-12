@@ -1,0 +1,29 @@
+_repo: Arnold-BeerDas-Schicksal-eines-Juden_34782
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34782-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brod, Max
+    alias: Brod, Maks
+    birthdate: 1884
+    deathdate: 1968
+    gutenberg_agent_id: '37224'
+    url: http://www.gutenberg.org/2009/agents/37224
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34782'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- Fiction'
+- !lcc 'PT'
+- !lcsh 'German fiction'
+title: 'Arnold Beer: Das Schicksal eines Juden'
+url: http://www.gutenberg.org/ebooks/34782
